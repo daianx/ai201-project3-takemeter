@@ -1,0 +1,13 @@
+{
+  "baseline_accuracy": 0.3902,
+  "finetuned_accuracy": 0.5854,
+  "improvement": 0.1951,
+  "test_set_size": 41,
+  "label_map": {
+    "analytical": 0,
+    "personal": 1,
+    "summary_heavy": 2,
+    "reactive": 3
+  },
+  "model": "distilbert-base-uncased"
+}
